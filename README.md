@@ -12,5 +12,8 @@ Stroke is the fifth leading cause of death in North Carolina and the third leadi
 # Technologies 
 * Tableau
 
+# Dashboard on Github Page
+* https://liyaft.github.io/nc-stroke-rates-dashboard/
+
 # Dashboard on Tableau Public
 * https://public.tableau.com/views/NorthCarolinaStrokeDeathRateAnalysis/Dashboard12?:language=en-US&:display_count=n&:origin=viz_share_link
